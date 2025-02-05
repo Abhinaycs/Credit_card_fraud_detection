@@ -208,7 +208,7 @@ pydeck==0.9.1
 PyDispatcher==2.0.7
 pydub==0.25.1
 PyGetWindow==0.0.9
-Pygments==2.16.1
+Pygments==2.19.1
 PyJWT==2.8.0
 pyLDAvis==3.4.1
 PyMsgBox==1.0.9
@@ -242,7 +242,7 @@ requests==2.32.3
 requests-file==2.1.0
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
-rich==13.7.1
+rich==13.9.4
 rpds-py==0.10.6
 rsa==4.9
 ruff==0.8.2
